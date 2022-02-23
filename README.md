@@ -1,1 +1,19 @@
-# colab-notebooks
+# Google Colab Notebooks
+  This repository contains Google Colab Notebooks for simple ML/DL Models experiments. The primary target is Model Inference.
+
+## Create Models
+- These script can be used as reference for creating Operator/Layer level models for unit level testing of Inference Software
+	- create_onnx_model.ipynb
+  - create_tflite_model.ipynb
+
+## Run Inference on Pre-trained Models
+- These scripts can be used as reference for developing inference software for Pretrained DL models. 
+  -  infer_caffe.ipynb
+  -  infer_ort.ipynb
+  -  infer_tflite.ipynb
+
+## Save Models Pre-Trained Weights
+- These scripts can be used as reference for saving onnx/tflite models from public domain model hubs. 
+  - save_keras_model.ipynb
+  - save_timm_model.ipynb
+  - save_torchvision_model.ipynb
