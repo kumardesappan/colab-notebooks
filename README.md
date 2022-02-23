@@ -17,3 +17,7 @@
   - save_keras_model.ipynb
   - save_timm_model.ipynb
   - save_torchvision_model.ipynb
+
+## Training Models
+  - [CNN Model Tarining using Tensorflow/Keras](https://www.tensorflow.org/tutorials/images/cnn)
+  - [CNN Model Tarining using Pytorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
