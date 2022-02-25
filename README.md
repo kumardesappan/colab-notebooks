@@ -21,3 +21,6 @@
 ## Training Models
   - [CNN Model Tarining using Tensorflow/Keras](https://www.tensorflow.org/tutorials/images/cnn)
   - [CNN Model Tarining using Pytorch](https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html)
+
+## Other useful Colab Notebooks
+  - [Object Detection with DETR - A minimal implementation](https://colab.research.google.com/github/facebookresearch/detr/blob/colab/notebooks/detr_demo.ipynb)
