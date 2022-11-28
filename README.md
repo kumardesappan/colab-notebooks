@@ -3,7 +3,8 @@
 
 ## Create Models
 - These script can be used as reference for creating Operator/Layer level models for unit level testing of Inference Software
-	- create_onnx_model.ipynb
+  - create_onnx_model.ipynb - Export ONNX model using Pytorch
+  - define_onnx_model.ipynb - Define ONNX model using onnx.helper
   - create_tflite_model.ipynb
 
 ## Run Inference on Pre-trained Models
